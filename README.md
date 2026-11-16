@@ -6,7 +6,7 @@ Call Claude Opus 5 through PoYo's Anthropic-compatible Messages endpoint using t
 
 **Answer:** To use the Claude Opus 5 API, send a server-side request to `POST https://api.poyo.ai/v1/messages` with model `claude-opus-5` and a PoYo API key. The examples in this repository are runnable with Node.js 22+ or cURL.
 
-Last verified against the live PoYo schema and pricing on **August 9, 2026**.
+Last verified against the live PoYo schema and pricing on **November 16, 2026**.
 
 ## Quickstart
 
