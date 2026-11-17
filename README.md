@@ -1,6 +1,6 @@
 # Claude Opus 5 API: runnable cURL and Node.js examples
 
-[![PoYo model page](https://img.shields.io/badge/Try%20on%20PoYo-claude--opus--5--api-84cc16)](https://poyo.ai/models/claude-opus-5) [![API docs](https://img.shields.io/badge/API-docs-22d3ee)](https://docs.poyo.ai/api-manual/chat-series/claude-messages) [![Check](https://github.com/PoyoAPI/claude-opus-5-api/actions/workflows/check.yml/badge.svg)](https://github.com/PoyoAPI/claude-opus-5-api/actions/workflows/check.yml)
+[![PoYo model page](https://img.shields.io/badge/Try%20on%20PoYo-claude--opus--5--api-84cc16)](https://poyo.ai/models/claude-opus-5) [![API docs](https://img.shields.io/badge/API-docs-22d3ee)](https://docs.poyo.ai/api-manual/chat-series/claude-messages) [![Check](https://github.com/PoyoAPI/Claude-Opus-5-API/actions/workflows/check.yml/badge.svg)](https://github.com/PoyoAPI/Claude-Opus-5-API/actions/workflows/check.yml)
 
 Call Claude Opus 5 through PoYo's Anthropic-compatible Messages endpoint using the exact claude-opus-5 model ID.
 
